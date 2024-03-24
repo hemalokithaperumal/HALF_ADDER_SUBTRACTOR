@@ -63,9 +63,9 @@ xor sum1(sum,a,b);
 and carry1(carry,a,b); 
 endmodule
 ```
-## full adder
+## half subtractor:
 ```
-module halfsub(diff,carry,a,b);
+module exp3(diff,carry,a,b);
 input a,b;
 output diff,carry;
 xor(diff,a,b);
