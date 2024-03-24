@@ -34,6 +34,11 @@ Borrow = A’B
 Figure -02 HALF Subtractor
 
 **Truthtable**
+## half adder:
+![add](3truth.png)
+## half subtractor:
+
+![sub](<3 sub truth.png>)
 
 **Procedure**
 
@@ -74,20 +79,18 @@ endmodule
 ```
 
 **RTL Schematic**
+
 ## half adder:
-![adder](3truth.png)
-## half subtractor:
-![sub](<3 sub truth.png>)
+![add](<3dia add.png>)
+## half sub:
+![sub](<3sub dia.png>)
+
 **Output/TIMING Waveform**
 ## half adder:
 ![add](<3 logic.png>)
 ## half sub:
 ![sub](<3 sub trruth.png>)
-## logic diagram:
-## half adder:
-![add](<3dia add.png>)
-## half sub:
-![sub](<3sub dia.png>)
+
 
 
 **Result:**
