@@ -88,5 +88,7 @@ endmodule
 ![add](<3dia add.png>)
 ## half sub:
 ![sub](<3sub dia.png>)
+
+
 **Result:**
 Thus the half subtractor and half adder circuits are designed and the truth tables is verified using quartus software.
